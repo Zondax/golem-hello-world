@@ -1,0 +1,4 @@
+projectName: golem-hello-world
+templates:
+  - template: templates/golem
+  - template: templates/publish-earthly
